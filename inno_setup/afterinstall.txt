@@ -1,0 +1,15 @@
+gitee&github 均可获取软件
+开源地址
+https://gitee.com/GAOTINGXIANG
+https://github.com/GAOTINGXIANG
+推荐中国用户使用gitee安装
+
+*若github出现限速,可安装WATT加速器,详见地址
+https://steampp.net/
+
+安装完毕
+
+请再次确认安装路径中没有中文!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Please ensure the installation path consists only of English characters.
+任何疑问可官网留言或私信作者邮箱
+作者邮箱:gaotingxiangqqcom@qq.com
